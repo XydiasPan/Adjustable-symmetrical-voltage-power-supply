@@ -56,7 +56,13 @@ The repository contains the following files:
 
 You can view and edit these files using the EasyEDA CAD program.
 
-## Images
+## Warnings and Precautions
+
+- Ensure the input power does not exceed the specified limits to avoid damage.
+- The board is designed for low to moderate power applications. Do not overload the board with high power devices.
+- Proper heat dissipation should be considered when operating at higher power levels.
+
+## PCB Board
 
 Top side of the board:
 
@@ -65,9 +71,3 @@ Top side of the board:
 Bottom side of the board:
 
 ![PCB Bottom Side](bot.jpg)
-
-## Warnings and Precautions
-
-- Ensure the input power does not exceed the specified limits to avoid damage.
-- The board is designed for low to moderate power applications. Do not overload the board with high power devices.
-- Proper heat dissipation should be considered when operating at higher power levels.
